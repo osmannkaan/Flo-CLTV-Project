@@ -200,26 +200,3 @@ cltv_df.groupby("cltv_segment").agg({"count", "mean", "sum"})
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
